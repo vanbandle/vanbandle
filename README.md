@@ -1,5 +1,15 @@
 ## Welcome to VanBandle 👋
 
+- 🔭 Full Stack Developer using Claude Code and ChatGPT to develop cool applications.
+
+- HexQuest - a React based game using claude code to generate React and ChatGPT to generate prompts for codeing - check out the screenshot on the repo
+- a back end application using Flask and SQLAlchemy
+- b
+- c
+- d
+
+
+
 <!--
 **vanbandle/vanbandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
